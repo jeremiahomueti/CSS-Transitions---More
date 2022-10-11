@@ -1,0 +1,5 @@
+With CSS Transitions, we can specify: 
+- Property name
+- Duration (how long we want the property to take to transition)
+- A delay
+- [and then, the most confusing part, when you're beginning: A timing function.]

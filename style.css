@@ -1,0 +1,13 @@
+
+
+.circle{
+    width: 190px;
+    height: 190px;
+    background-color: magenta;
+    transition: 1s;
+}
+
+.circle:hover{
+    background-color: cyan;
+    border-radius: 50%;
+}
